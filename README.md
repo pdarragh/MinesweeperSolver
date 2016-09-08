@@ -11,7 +11,7 @@ Inputs are text files. The first line tells the width *w* and height *h* of the 
 * 1 _ 2 *
 2 2 1 2 *
 1 * 2 2 2
-_ _ 1 * 1
+1 1 2 * 1
 ```
 
 Mines are denoted with asterisks `*`, and number cells are denoted with their appropriate numbers.
